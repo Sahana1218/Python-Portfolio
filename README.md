@@ -1,7 +1,7 @@
 ## Welcome to Sahana's Data Science Portfolio
 
 
-### [Project 1] (https://github.com/users/Sahana1218/projects/1)
+### Project 1 
 ### Project 2
 ### Project 3
 ### Project 4 
