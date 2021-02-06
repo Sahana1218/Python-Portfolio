@@ -6,11 +6,12 @@
 ### Exercise 5
 ### Exercise 4
 ### Exercise 3
-### Exercise 2: Working With Sets
+### Exercise : Working With Sets
 File Name: Working With Sets.ipynb
-### Exercise 1: Working With Tuples 
+### Exercise : Working With Tuples 
 File Name: Working With Tuples.ipynb
-
+### Exercise 1: Working With Time Series - In Tableau
+File Name: WorkingWithTimeSeries.png
 ```markdown
 Syntax highlighted code block
 
