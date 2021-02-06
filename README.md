@@ -11,11 +11,11 @@ File Name: Working With Sets.ipynb
 ### Exercise : Working With Tuples 
 File Name: Working With Tuples.ipynb
 ### Exercise 1: Working With Time Series - In Tableau
-
+File Name: WorkingWithTimeSeries.png
 ## Education and Certifications
 ### Columbia University (Through EdX) Course: Statistical Thinking for Data Science and Analytics 
-#### Certificate of Completion: File Name - ColumbiaX_StatisticalThinkingForDSandA.pdf 
-File Name: WorkingWithTimeSeries.png
+Certificate of Completion: File Name - ColumbiaX_StatisticalThinkingForDSandA.pdf 
+
 ```markdown
 Syntax highlighted code block
 
