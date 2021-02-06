@@ -1,7 +1,7 @@
 ## Welcome to Sahana's Data Science Portfolio
 
 
-### [Project 1] (https://github.com/Sahana1218/Sahana_Portfolio/blob/master/Simple%20List%20Comprehension%20Examples.ipynb)
+### Project 1 
 ### Project 2
 ### Project 3
 ### Project 4 
