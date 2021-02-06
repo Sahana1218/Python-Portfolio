@@ -1,11 +1,13 @@
 ## Welcome to Sahana's Data Science Portfolio
 
-
-### Project 1 
-### Project 2
 ### Project 3
-### Project 4 
-
+### Project 2
+### Project 1 
+### Exercise 5
+### Exercise 4
+### Exercise 3
+### Exercise 2
+### Exercise 1
 
 
 ```markdown
