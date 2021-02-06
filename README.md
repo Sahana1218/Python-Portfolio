@@ -6,7 +6,8 @@
 ### Exercise 5
 ### Exercise 4
 ### Exercise 3
-### Exercise 2
+### Exercise 2: Working With Sets
+File Name: Working With Sets
 ### Exercise 1: Working With Tuples 
 File Name: Working With Tuples.ipynb
 
