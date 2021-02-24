@@ -2,7 +2,7 @@
 
 ## Experience
 ### Python Engineer/Developer at TMS Associates, Inc. 
-#### From February 4, 2016 - Present 
+#### From November 27, 2019 - Present 
 ### Project 3
 ### Project 2
 ### Project 1 
