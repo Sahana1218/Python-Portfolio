@@ -24,11 +24,14 @@ File Name: WorkingWithTimeSeries.png
 #### Graduated May 30, 2014
 
 ## Courses
-### LinkedIn Learning - Unit Testing in Python
-Certificate of Completion: UnitTestinginPython.jpg
-### LinkedIn Learning - Effective Serialization with Python
+### Udemy Course - 100 Days of Code: The Complete Python Pro Bootcamp for 2021 (63.5 Hours)
+### LinkedIn Learning - Unit Testing in Python (1 hour, and 29 minutes)
+#### Completed On: February 18, 2021 
+Certificate of Completion: File Name - UnitTestinginPython.jpg
+### LinkedIn Learning - Effective Serialization with Python (1 Hour, and 12 Minutes)
+#### Completed On: February 17, 2021 
 Certificate of Completion: File Name - EffectiveSerializationCourse.jpg
-### LinkedIn Learning - Python Quick Start
+### LinkedIn Learning - Python Quick Start (1 Hour, and 36 Minutes)
 Certificate of Completion: File Name - pythonquickstart.jpg 
 ### Udemy Course - Python for Data Science: From Fundamentals To Advanced (7 Hours)
 
