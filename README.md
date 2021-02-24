@@ -1,6 +1,8 @@
-# Welcome to Sahana's Data Science Portfolio
+# Welcome to Sahana Ramaswamy's Python Portfolio
 
 ## Experience
+### Python Engineer/Developer at TMS Associates, Inc. 
+#### From February 4, 2016 - Present 
 ### Project 3
 ### Project 2
 ### Project 1 
