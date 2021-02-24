@@ -15,7 +15,15 @@ File Name: Working With Sets.ipynb
 File Name: Working With Tuples.ipynb
 ### Exercise 1: Working With Time Series - In Tableau
 File Name: WorkingWithTimeSeries.png
-## Education and Certifications
+## Education 
+### Bachelor's of Science in Digital Media & Web Technology - University of Maryland, University College
+#### Graduated May 18, 2019
+##### Magna Cum Laude
+##### Alpha Sigma Lambda
+### High School Diploma - Walter Johnson High School
+#### Graduated May 30, 2014
+
+## Courses
 ### Tableau 2020 A-Z Hands-On Tableau Training for Data Science (Udemy Course) - Completed 2/1/2021 
 Certificate of Completion: File Name - Tableau2020A-Z_CertificateofCompletion.jpg
 ### Columbia University (Through EdX) Course: Statistical Thinking for Data Science and Analytics - Completed 1/25/2021
