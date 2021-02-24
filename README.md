@@ -24,10 +24,14 @@ File Name: WorkingWithTimeSeries.png
 #### Graduated May 30, 2014
 
 ## Courses
-### Tableau 2020 A-Z Hands-On Tableau Training for Data Science (Udemy Course) - Completed 2/1/2021 
-Certificate of Completion: File Name - Tableau2020A-Z_CertificateofCompletion.jpg
-### Columbia University (Through EdX) Course: Statistical Thinking for Data Science and Analytics - Completed 1/25/2021
-Certificate of Completion: File Name - ColumbiaX_StatisticalThinkingForDSandA.pdf 
+### LinkedIn Learning - Unit Testing in Python
+Certificate of Completion: UnitTestinginPython.jpg
+### LinkedIn Learning - Effective Serialization with Python
+Certificate of Completion: File Name - EffectiveSerializationCourse.jpg
+### LinkedIn Learning - Python Quick Start
+Certificate of Completion: File Name - pythonquickstart.jpg 
+### Udemy Course - Python for Data Science: From Fundamentals To Advanced (7 Hours)
+
 
 ```markdown
 Syntax highlighted code block
