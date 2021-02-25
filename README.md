@@ -3,8 +3,11 @@
 ## Experience
 ### Python Engineer/Developer at TMS Associates, Inc. 
 #### From November 27, 2019 - Present 
-### Project 3 - 
-### Project 2 - 
+### Project 4 - 
+### Project 3 - COVID-19 Data Analysis Using Python
+![alt text](https://github.com/Sahana1218/Python-Portfolio/blob/master/Covid-19DataAnalysis.JPG)
+### Project 2 - Python Programming 101 
+![alt text](https://github.com/Sahana1218/Python-Portfolio/blob/master/PythonProgramming101Project.JPG)
 ### Project 1 - Build a Data Science Web App Using Streamlit and Python 
 #### Coursera Project Network 
 ![alt text](https://github.com/Sahana1218/Python-Portfolio/blob/master/BuildADataScienceWebAppUsingStreamlitandPython.JPG)
