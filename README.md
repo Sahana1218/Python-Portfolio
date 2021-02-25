@@ -24,8 +24,18 @@ File Name: WorkingWithTimeSeries.png
 #### Graduated May 30, 2014
 
 ## Courses
-### Udemy Course - 100 Days of Code: The Complete Python Pro Bootcamp for 2021 (63.5 Hours)
-### LinkedIn Learning - Unit Testing in Python (1 hour, and 29 minutes)
+### 
+### Learn By Doing: Python Projects Masterclass 2021 (19 Hours)
+#### Udemy
+##### In Progress
+### Python: Solve 250 Python Exercises (1 Hour)
+#### Udemy
+##### In Progress
+### Python Complete: Masterclass for Beginners (30 Hours)
+#### Udemy
+##### In Progress
+### 100 Days of Code: The Complete Python Pro Bootcamp for 2021 (63.5 Hours) - Udemy
+### Unit Testing in Python (1 hour, and 29 minutes)
 #### Completed On: February 18, 2021 
 Certificate of Completion: File Name - UnitTestinginPython.jpg
 ### LinkedIn Learning - Effective Serialization with Python (1 Hour, and 12 Minutes)
