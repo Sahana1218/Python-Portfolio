@@ -23,7 +23,7 @@ File Name: WorkingWithTimeSeries.png
 ![alt text](https://github.com/Sahana1218/Python-Portfolio/blob/master/BSDegree.jpg)
 ### High School Diploma - Walter Johnson High School
 #### Graduated May 30, 2014
-
+![alt text](https://github.com/Sahana1218/Python-Portfolio/blob/master/HSDiploma.jpg)
 ## Courses
 ### 
 ### Learn By Doing: Python Projects Masterclass 2021 (19 Hours)
