@@ -20,8 +20,7 @@ File Name: WorkingWithTimeSeries.png
 #### Graduated May 18, 2019
 ##### Magna Cum Laude
 ##### Alpha Sigma Lambda
-![GitHub Logo](C:\Users\sahana\Desktop\Data Science and Software Engineering Certificates\PythonFirst7Hours.jpg)
-Format: ![Alt Text](url)
+![alt text](http://url/to/img.png)
 ### High School Diploma - Walter Johnson High School
 #### Graduated May 30, 2014
 
