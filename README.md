@@ -20,6 +20,8 @@ File Name: WorkingWithTimeSeries.png
 #### Graduated May 18, 2019
 ##### Magna Cum Laude
 ##### Alpha Sigma Lambda
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 ### High School Diploma - Walter Johnson High School
 #### Graduated May 30, 2014
 
