@@ -7,7 +7,7 @@
 ### Project 2 - 
 ### Project 1 - Build a Data Science Web App Using Streamlit and Python 
 #### Coursera Project Network 
-![alt text](https://github.com/Sahana1218/Python-Portfolio/blob/master/BSDegree.jpg)
+![alt text](https://github.com/Sahana1218/Python-Portfolio/blob/master/BuildADataScienceWebAppUsingStreamlitandPython.JPG)
 ### Exercise 5
 ### Exercise 4
 ### Exercise 3
