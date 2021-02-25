@@ -3,9 +3,11 @@
 ## Experience
 ### Python Engineer/Developer at TMS Associates, Inc. 
 #### From November 27, 2019 - Present 
-### Project 3
-### Project 2
-### Project 1 
+### Project 3 - 
+### Project 2 - 
+### Project 1 - Build a Data Science Web App Using Streamlit and Python 
+#### Coursera Project Network 
+![alt text](https://github.com/Sahana1218/Python-Portfolio/blob/master/BSDegree.jpg)
 ### Exercise 5
 ### Exercise 4
 ### Exercise 3
